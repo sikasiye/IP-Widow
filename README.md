@@ -36,8 +36,36 @@
 
 ### Linux / Termux (Android)
 
-```bash
-git clone https://github.com/yourusername/IP-Widow.git
+
+git clone https://github.com/sikasiye/IP-Widow.git
 cd IP-Widow
 chmod +x ipwidow.sh
 ./ipwidow.sh example.com
+
+
+
+
+## 👨‍💻 Author
+
+**Mr H👾X**
+
+| Platform | Link |
+|----------|------|
+| Email | sikasiyekelvin02@gmail.com |
+
+## 🙏 Credits
+
+- **Creator**: Mr H👾X
+- **Contributors**: None yet (be the first!)
+- **Inspiration**: Open source security tools
+
+## 📞 Support
+
+- Open an issue on GitHub
+- Contact author directly via email
+
+## 📄 License
+
+GNU License - See [LICENSE](LICENSE) file
+
+Copyright (c) 2025 Mr H👾X

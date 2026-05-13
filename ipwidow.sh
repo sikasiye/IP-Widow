@@ -1,5 +1,15 @@
 #!/usr/bin/env bas
 
+
+# ============================================
+#  IP WIDOW - Domain to IP Hunter Tool
+#  Author: Mr H👾X
+#  GitHub: https://github.com/sikasiye/IP-Widow.git
+#  Version: 1.0
+#  License: MIT
+#  Created: 2025
+# ============================================
+
 # Written by Mr H👾X
 # IP WIDOW - Domain to Server IP Tool
 
