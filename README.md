@@ -66,6 +66,6 @@ chmod +x ipwidow.sh
 
 ## 📄 License
 
-GNU License - See [LICENSE](LICENSE) file
+GPL License - See [LICENSE](LICENSE) file
 
 Copyright (c) 2025 Mr H👾X
