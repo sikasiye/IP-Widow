@@ -32,14 +32,25 @@
 
 
 
+## 📸 Screenshots
+
+
+### Android Termux
+![Tool Screenshot](screenshots/Screenshot_20260514-003417.jpg) 
+
+
+
 ## 🚀 Installation
 
 ### Linux / Termux (Android)
 
 
 git clone https://github.com/sikasiye/IP-Widow.git
+
 cd IP-Widow
+
 chmod +x ipwidow.sh
+
 ./ipwidow.sh example.com
 
 
@@ -66,6 +77,6 @@ chmod +x ipwidow.sh
 
 ## 📄 License
 
-GPL License - See [LICENSE](LICENSE) file
+GNU License - See [LICENSE](LICENSE) file
 
 Copyright (c) 2025 Mr H👾X
