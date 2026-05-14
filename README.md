@@ -36,7 +36,7 @@
 
 
 ### Android Termux
-![Tool Screenshot](screenshots/screenshot.jpg) 
+![Tool Screenshot](screenshot.jpg) 
 
 
 
